@@ -9,22 +9,22 @@ My name is Aadi and I am a graduate student pursuing my interests in the Automat
 While at Virginia Tech, I have had the pleasure of leading the Hybrid Electric Vehicle Team that participates in the EcoCAR EV Challenge Competition. I have also served as a Software Engineering Intern for General Motors in their Automated Driving and Active Safety team, accelerating autonomous vehicle validation and leading novel image processing methods. My past work at Virginia Tech Transportation Institute and the Department of Energy is also a testament to my passion for the field, and I will continue to make an impact on the world through my hard work.
 
 ## Skills
-Python
-C++
-Git
-MATLAB
-Arduino
-Linux OS
+* Python
+* C++
+* Git
+* MATLAB
+* Arduino
+* Linux OS
 
 ## Libraries
-OpenCV
-TensorFlow
-Qt GUI
-Argparse CLI
-... and more!
+* OpenCV
+* TensorFlow
+* Qt GUI
+* Argparse CLI
+* ... and more!
 
 ## Interests
-Machine Learning
-Computer Vision
-Image Processing
-Software Development
+* Machine Learning
+* Computer Vision
+* Image Processing
+* Software Development
